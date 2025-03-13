@@ -1,5 +1,3 @@
-## HELLO WORLD 
-
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Madimi+One&pause=1000&color=5444F7&background=B0CBFF7D&width=435&lines=CHLOE'sGit+Hub" alt="Typing SVG" /></a>
 </div>
