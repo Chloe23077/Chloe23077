@@ -1,7 +1,7 @@
 ## HELLO WORLD 
 
 <div align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Spicy+Rice&weight=600&pause=1000&color=702FF7&background=D7DFFFC1&width=435&lines=CHLOE's+Git+Hub)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Madimi+One&pause=1000&color=5444F7&background=B0CBFF7D&width=435&lines=CHLOE'sGit+Hub" alt="Typing SVG" /></a>
 </div>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
@@ -49,7 +49,6 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/adobe%20photoshop-08253c.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=37abff" />&nbsp
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
 </div>
 
